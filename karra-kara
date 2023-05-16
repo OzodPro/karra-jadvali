@@ -1,0 +1,4 @@
+x = 0
+n = int(input('son kiriting: '))
+for i in range(n,n*10,n):
+    print(f'{n}*{x}={i}')
